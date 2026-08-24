@@ -1,0 +1,305 @@
+categories:
+  blocks:
+    name: "Taş ve Yapı Blokları"
+    image: "textures/blocks/stone.png"
+    items:
+      - name: "Düz Taş"
+        item: "minecraft:stone"
+        meta: 0
+        buy: 10.0
+        sell: 5.0
+      - name: "Kırıktaş"
+        item: "minecraft:cobblestone"
+        meta: 0
+        buy: 5.0
+        sell: 2.0
+      - name: "Tuğla"
+        item: "minecraft:brick"
+        meta: 0
+        buy: 20.0
+        sell: 10.0
+      - name: "Taş Tuğla"
+        item: "minecraft:stonebrick"
+        meta: 0
+        buy: 12.0
+        sell: 6.0
+      - name: "Cam"
+        item: "minecraft:glass"
+        meta: 0
+        buy: 15.0
+        sell: 7.0
+      - name: "Nether Tuğlası"
+        item: "minecraft:nether_brick"
+        meta: 0
+        buy: 30.0
+        sell: 15.0
+      - name: "Kuvars Bloğu"
+        item: "minecraft:quartz_block"
+        meta: 0
+        buy: 40.0
+        sell: 20.0
+      - name: "Obsidyen"
+        item: "minecraft:obsidian"
+        meta: 0
+        buy: 150.0
+        sell: 70.0
+      - name: "Kum"
+        item: "minecraft:sand"
+        meta: 0
+        buy: 6.0
+        sell: 2.0
+      - name: "Çakıl"
+        item: "minecraft:gravel"
+        meta: 0
+        buy: 6.0
+        sell: 2.0
+      - name: "Toprak"
+        item: "minecraft:dirt"
+        meta: 0
+        buy: 4.0
+        sell: 1.0
+
+  woods:
+    name: "Odun ve Tahtalar"
+    image: "textures/blocks/log_oak.png"
+    items:
+      - name: "Meşe Odunu"
+        item: "minecraft:log"
+        meta: 0
+        buy: 15.0
+        sell: 7.0
+      - name: "Ladin Odunu"
+        item: "minecraft:log"
+        meta: 1
+        buy: 15.0
+        sell: 7.0
+      - name: "Huş Odunu"
+        item: "minecraft:log"
+        meta: 2
+        buy: 15.0
+        sell: 7.0
+      - name: "Tropikal Odun"
+        item: "minecraft:log"
+        meta: 3
+        buy: 15.0
+        sell: 7.0
+      - name: "Meşe Tahtası"
+        item: "minecraft:planks"
+        meta: 0
+        buy: 8.0
+        sell: 3.0
+      - name: "Ladin Tahtası"
+        item: "minecraft:planks"
+        meta: 1
+        buy: 8.0
+        sell: 3.0
+      - name: "Huş Tahtası"
+        item: "minecraft:planks"
+        meta: 2
+        buy: 8.0
+        sell: 3.0
+
+  minerals:
+    name: "Madenler ve Cevherler"
+    image: "textures/items/diamond.png"
+    items:
+      - name: "Elmas"
+        item: "minecraft:diamond"
+        meta: 0
+        buy: 500.0
+        sell: 250.0
+      - name: "Zümrüt"
+        item: "minecraft:emerald"
+        meta: 0
+        buy: 400.0
+        sell: 200.0
+      - name: "Demir Külçesi"
+        item: "minecraft:iron_ingot"
+        meta: 0
+        buy: 50.0
+        sell: 25.0
+      - name: "Kömür"
+        item: "minecraft:coal"
+        meta: 0
+        buy: 20.0
+        sell: 10.0
+      - name: "Kızıltaş"
+        item: "minecraft:redstone"
+        meta: 0
+        buy: 15.0
+        sell: 6.0
+      - name: "Lapis Lazuli"
+        item: "minecraft:dye"
+        meta: 4
+        buy: 15.0
+        sell: 6.0
+      - name: "Nether Kuvarsı"
+        item: "minecraft:quartz"
+        meta: 0
+        buy: 25.0
+        sell: 10.0
+
+  farming:
+    name: "Tarım Ürünleri"
+    image: "textures/items/apple.png"
+    items:
+      - name: "Elma"
+        item: "minecraft:apple"
+        meta: 0
+        buy: 25.0
+        sell: 10.0
+      - name: "Havuç"
+        item: "minecraft:carrot"
+        meta: 0
+        buy: 15.0
+        sell: 6.0
+      - name: "Patates"
+        item: "minecraft:potato"
+        meta: 0
+        buy: 15.0
+        sell: 6.0
+      - name: "Buğday"
+        item: "minecraft:wheat"
+        meta: 0
+        buy: 10.0
+        sell: 4.0
+      - name: "Karpuz Dilimi"
+        item: "minecraft:melon"
+        meta: 0
+        buy: 10.0
+        sell: 4.0
+      - name: "Bal Kabağı"
+        item: "minecraft:pumpkin"
+        meta: 0
+        buy: 20.0
+        sell: 8.0
+      - name: "Şeker Kamışı"
+        item: "minecraft:reeds"
+        meta: 0
+        buy: 0.25
+        sell: 0.10
+
+  food:
+    name: "Yiyecekler"
+    image: "textures/items/cooked_beef.png"
+    items:
+      - name: "Ekmek"
+        item: "minecraft:bread"
+        meta: 0
+        buy: 30.0
+        sell: 12.0
+      - name: "Pişmiş Biftek"
+        item: "minecraft:cooked_beef"
+        meta: 0
+        buy: 40.0
+        sell: 18.0
+      - name: "Pişmiş Tavuk"
+        item: "minecraft:cooked_chicken"
+        meta: 0
+        buy: 35.0
+        sell: 15.0
+      - name: "Pişmiş Domuz Pirzolası"
+        item: "minecraft:cooked_porkchop"
+        meta: 0
+        buy: 40.0
+        sell: 18.0
+
+  tools:
+    name: "Ekipmanlar ve Aletler"
+    image: "textures/items/iron_pickaxe.png"
+    items:
+      - name: "Demir Kazma"
+        item: "minecraft:iron_pickaxe"
+        meta: 0
+        buy: 150.0
+        sell: 60.0
+      - name: "Demir Balta"
+        item: "minecraft:iron_axe"
+        meta: 0
+        buy: 150.0
+        sell: 60.0
+      - name: "Demir Kürek"
+        item: "minecraft:iron_shovel"
+        meta: 0
+        buy: 100.0
+        sell: 40.0
+      - name: "Demir Kılıç"
+        item: "minecraft:iron_sword"
+        meta: 0
+        buy: 200.0
+        sell: 80.0
+      - name: "Elmas Kazma"
+        item: "minecraft:diamond_pickaxe"
+        meta: 0
+        buy: 1000.0
+        sell: 450.0
+      - name: "Elmas Balta"
+        item: "minecraft:diamond_axe"
+        meta: 0
+        buy: 1000.0
+        sell: 450.0
+      - name: "Elmas Kürek"
+        item: "minecraft:diamond_shovel"
+        meta: 0
+        buy: 600.0
+        sell: 250.0
+      - name: "Elmas Kılıç"
+        item: "minecraft:diamond_sword"
+        meta: 0
+        buy: 1200.0
+        sell: 550.0
+      - name: "Olta"
+        item: "minecraft:fishing_rod"
+        meta: 0
+        buy: 75.0
+        sell: 30.0
+      - name: "Çakmak"
+        item: "minecraft:flint_and_steel"
+        meta: 0
+        buy: 50.0
+        sell: 20.0
+
+  armors:
+    name: "Zırh Setleri"
+    image: "textures/items/diamond_chestplate.png"
+    items:
+      - name: "Demir Kask"
+        item: "minecraft:iron_helmet"
+        meta: 0
+        buy: 200.0
+        sell: 80.0
+      - name: "Demir Göğüslük"
+        item: "minecraft:iron_chestplate"
+        meta: 0
+        buy: 350.0
+        sell: 140.0
+      - name: "Demir Pantolon"
+        item: "minecraft:iron_leggings"
+        meta: 0
+        buy: 300.0
+        sell: 120.0
+      - name: "Demir Bot"
+        item: "minecraft:iron_boots"
+        meta: 0
+        buy: 180.0
+        sell: 70.0
+      - name: "Elmas Kask"
+        item: "minecraft:diamond_helmet"
+        meta: 0
+        buy: 1500.0
+        sell: 700.0
+      - name: "Elmas Göğüslük"
+        item: "minecraft:diamond_chestplate"
+        meta: 0
+        buy: 2500.0
+        sell: 1200.0
+      - name: "Elmas Pantolon"
+        item: "minecraft:diamond_leggings"
+        meta: 0
+        buy: 2000.0
+        sell: 950.0
+      - name: "Elmas Bot"
+        item: "minecraft:diamond_boots"
+        meta: 0
+        buy: 1200.0
+        sell: 550.0

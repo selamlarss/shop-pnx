@@ -1,0 +1,11 @@
+name: ShopGUI-PNX
+main: tr.market.shopgui.Main
+version: 1.0.0
+api: ["3.0.3"]
+author: MarketTeam
+description: PowerNukkitX Form Shop Plugin
+commands:
+  shop:
+    description: Mağaza menüsünü açar
+    usage: "/shop"
+    aliases: [market, ma]
